@@ -1,3 +1,5 @@
+
+
 // Place your settings in this file to overwrite default and user settings.
 {
   "git.branchProtection": [
@@ -13,7 +15,10 @@
     "markdown.validate.enabled": true,
     "markdown.validate.ignoredLinks": [
         "/Download",
-        "/insiders"
+        "/insiders",
+        "/updates",
+        "/docs/supporting/faq.md#how-do-i-opt-out-of-vs-code-autoupdates",
+        "/download"
     ],
     "markdown.copyFiles.destination": {
         // /release-notes/v123.md -> /release-notes/images/123/img.png
